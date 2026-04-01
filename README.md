@@ -6,7 +6,7 @@
 ## What it does
 - Simulates real BPO infrastructure metrics (SLA, cost, latency, security)
 - Groq AI Agent with persistent MongoDB memory analyzes and predicts risks
-- Generates professional Guardian Report
+- Generates a professional Guardian Report
 - Requires human approval via Microsoft Teams
 - Auto-creates tickets via HTTP Request with remediation recommendations
 
@@ -16,7 +16,7 @@
 - Structured output + branching logic
 - Realistic engineering-level prompting
 
-Demo video: [Add Loom link here]
+Demo video: [coming soon....]
 
 Workflow JSON: Download from the repo or n8n export.
 
